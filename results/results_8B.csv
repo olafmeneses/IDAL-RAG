@@ -1,0 +1,190 @@
+﻿ID;RAG_type;question;generation;true_answer;grade;n_retrieved_docs
+0;LLAMA3;¿Cuáles son las causas por las cuales cesarán los Presidentes de la Audiencia Nacional, los Tribunales Superiores de Justicia, las Audiencias, las Salas de la Audiencia Nacional y los Tribunales Superiores de Justicia?;"Según el Código de Procedimiento Penal, los Presidentes de la Audiencia Nacional, los Tribunales Superiores de Justicia, las Audiencias, las Salas de la Audiencia Nacional y los Tribunales Superiores de Justicia cesan por:
+
+* Renuncia: El Presidente puede presentar su renuncia por propia voluntad.
+* Jubilación: Al alcanzar la edad de jubilación, que es de 67 años.
+* Destitución: El Presidente puede ser destituido por el Consejo General del Poder Judicial, previa instrucción de un expediente disciplinario.
+* Fallecimiento: En caso de fallecimiento, el Presidente de la Audiencia o Tribunal cesará automáticamente.";Los Presidentes de la Audiencia Nacional, los Tribunales Superiores de Justicia, las Audiencias, las Salas de la Audiencia Nacional y los Tribunales Superiores de Justicia cesarán por expiración de su mandato, dimisión aceptada por el Consejo General, o por resolución acordada en expediente disciplinario.;8;0
+1;BASE;¿Cuáles son las causas por las cuales cesarán los Presidentes de la Audiencia Nacional, los Tribunales Superiores de Justicia, las Audiencias, las Salas de la Audiencia Nacional y los Tribunales Superiores de Justicia?;"Según el contexto, los Presidentes de la Audiencia Nacional, los Tribunales Superiores de Justicia, las Audiencias, las Salas de la Audiencia Nacional y los Tribunales Superiores de Justicia cesarán por alguna de las causas siguientes:
+
+1. Por expiración de su mandato, salvo que sean confirmados por un único mandato de otros cinco años.
+2. Por dimisión, aceptada por el Consejo General.
+3. Por resolución acordada en expediente disciplinario.
+
+Es importante destacar que no hay más causas mencionadas en el contexto proporcionado.";Los Presidentes de la Audiencia Nacional, los Tribunales Superiores de Justicia, las Audiencias, las Salas de la Audiencia Nacional y los Tribunales Superiores de Justicia cesarán por expiración de su mandato, dimisión aceptada por el Consejo General, o por resolución acordada en expediente disciplinario.;8;4
+2;FILTER;¿Cuáles son las causas por las cuales cesarán los Presidentes de la Audiencia Nacional, los Tribunales Superiores de Justicia, las Audiencias, las Salas de la Audiencia Nacional y los Tribunales Superiores de Justicia?;"Según el artículo 338, los Presidentes de la Audiencia Nacional, de los Tribunales Superiores de Justicia, de las Audiencias, de Sala de la Audiencia Nacional y de Sala de los Tribunales Superiores de Justicia cesarán por alguna de las causas siguientes:
+
+1. Por expiración de su mandato, salvo que sean confirmados por un único mandato de otros cinco años.
+2. Por dimisión, aceptada por el Consejo General.
+3. Por resolución acordada en expediente disciplinario.";Los Presidentes de la Audiencia Nacional, los Tribunales Superiores de Justicia, las Audiencias, las Salas de la Audiencia Nacional y los Tribunales Superiores de Justicia cesarán por expiración de su mandato, dimisión aceptada por el Consejo General, o por resolución acordada en expediente disciplinario.;9;2
+3;LLAMA3;¿Cómo funciona el proceso de investidura del Presidente del Gobierno según la Constitución Española?;"Según la Constitución Española, el proceso de investidura del Presidente del Gobierno es el siguiente:
+
+1. El Rey nombra al candidato al cargo de Presidente del Gobierno, previa consulta con los líderes de los partidos políticos con representación en el Congreso de los Diputados.
+2. El candidato presentado por el Rey es investido como Presidente del Gobierno si obtiene la confianza del Congreso de los Diputados, mediante un voto de confianza.
+3. El Presidente del Gobierno debe obtener la mayoría absoluta de los votos emitidos en el Congreso de los Diputados.
+4. Si el candidato no obtiene la mayoría absoluta, el Rey nombra a un nuevo candidato y el proceso se repite.
+5. Una vez investido, el Presidente del Gobierno presenta su programa de gobierno y toma posesión del cargo.";"Artículo 99
+1. Después de cada renovación del Congreso de los Diputados, y en los demás supuestos constitucionales en que así proceda, el Rey, previa consulta con los representantes designados por los Grupos políticos con representación parlamentaria, y a través del Presidente del Congreso, propondrá un candidato a la Presidencia del Gobierno.
+
+2. El candidato propuesto conforme a lo previsto en el apartado anterior expondrá ante el Congreso de los Diputados el programa político del Gobierno que pretenda formar y solicitará la confianza de la Cámara.
+
+3. Si el Congreso de los Diputados, por el voto de la mayoría absoluta de sus miembros, otorgare su confianza a dicho candidato, el Rey le nombrará Presidente. De no alcanzarse dicha mayoría, se someterá la misma propuesta a nueva votación cuarenta y ocho horas después de la anterior, y la confianza se entenderá otorgada si obtuviere la mayoría simple.
+
+4. Si efectuadas las citadas votaciones no se otorgase la confianza para la investidura, se tramitarán sucesivas propuestas en la forma prevista en los apartados anteriores.
+
+5. Si transcurrido el plazo de dos meses, a partir de la primera votación de investidura, ningún candidato hubiere obtenido la confianza del Congreso, el Rey disolverá ambas Cámaras y convocará nuevas elecciones con el refrendo del Presidente del Congreso.";8;0
+4;BASE;¿Cómo funciona el proceso de investidura del Presidente del Gobierno según la Constitución Española?;"Según la Constitución Española, el proceso de investidura del Presidente del Gobierno es el siguiente:
+
+1. El Rey propone un candidato a la Presidencia del Gobierno, previa consulta con los representantes designados por los Grupos políticos con representación parlamentaria y a través del Presidente del Congreso.
+2. El candidato propuesto expone su programa político del Gobierno que pretende formar ante el Congreso de los Diputados.
+3. El Congreso de los Diputados vota la confianza al candidato propuesto. Si obtiene la mayoría absoluta de los votos, el Rey lo nombra Presidente del Gobierno. Si no, se somete a nueva votación 48 horas después y se considera otorgada la confianza si obtiene la mayoría simple.
+4. Si no se otorga la confianza en el plazo de dos meses, el Rey disuelve ambas Cámaras y convoca nuevas elecciones con el refrendo del Presidente del Congreso.";"Artículo 99
+1. Después de cada renovación del Congreso de los Diputados, y en los demás supuestos constitucionales en que así proceda, el Rey, previa consulta con los representantes designados por los Grupos políticos con representación parlamentaria, y a través del Presidente del Congreso, propondrá un candidato a la Presidencia del Gobierno.
+
+2. El candidato propuesto conforme a lo previsto en el apartado anterior expondrá ante el Congreso de los Diputados el programa político del Gobierno que pretenda formar y solicitará la confianza de la Cámara.
+
+3. Si el Congreso de los Diputados, por el voto de la mayoría absoluta de sus miembros, otorgare su confianza a dicho candidato, el Rey le nombrará Presidente. De no alcanzarse dicha mayoría, se someterá la misma propuesta a nueva votación cuarenta y ocho horas después de la anterior, y la confianza se entenderá otorgada si obtuviere la mayoría simple.
+
+4. Si efectuadas las citadas votaciones no se otorgase la confianza para la investidura, se tramitarán sucesivas propuestas en la forma prevista en los apartados anteriores.
+
+5. Si transcurrido el plazo de dos meses, a partir de la primera votación de investidura, ningún candidato hubiere obtenido la confianza del Congreso, el Rey disolverá ambas Cámaras y convocará nuevas elecciones con el refrendo del Presidente del Congreso.";9;4
+5;LLAMA3;¿Cómo podría hacer una tortilla de patatas?;"¡Claro! Para hacer una deliciosa tortilla de patatas, necesitarás los siguientes ingredientes:
+
+* 3-4 patatas medianas, peladas y cortadas en dados
+* 1 cebolla picada
+* 2 dientes de ajo picados
+* 1 huevo
+* Sal y pimienta al gusto
+* Aceite de oliva para freír
+
+1. En una sartén grande, calienta un poco de aceite de oliva a fuego medio.
+2. Agrega la cebolla y el ajo y sofríe hasta que estén suaves.
+3. Agrega las patatas y sofríe durante unos 10-15 minutos, revolviendo ocasionalmente, hasta que estén doradas y crujientes.
+4. En un tazón, bate el huevo y agrega sal y pimienta al gusto.
+5. Vierte el huevo sobre las patatas y revuelve todo bien.
+6. Cocina durante unos 2-3 minutos, hasta que la tortilla esté firme y dorada.
+7. Sirve caliente y disfruta!
+
+Espero que disfrutes de tu deliciosa tortilla de patatas!";Con la información y el contexto proporcionado, no puedo dar una respuesta adecuada a la pregunta.;2;0
+6;BASE;¿Cómo podría hacer una tortilla de patatas?;Lo siento, pero no tengo información sobre cómo hacer una tortilla de patatas en el contexto proporcionado. El texto parece ser un conjunto de artículos y leyes sobre temas financieros y legales, y no contiene información sobre cocina o recetas. Si necesitas ayuda con algo más, estoy aquí para ayudarte.;Con la información y el contexto proporcionado, no puedo dar una respuesta adecuada a la pregunta.;8;4
+7;FILTER;¿Cómo podría hacer una tortilla de patatas?;Lo siento, pero no tengo suficiente información para responder a esta pregunta. Como no tengo acceso a documentos relevantes, no puedo proporcionar una respuesta confiable.;Con la información y el contexto proporcionado, no puedo dar una respuesta adecuada a la pregunta.;8;1
+8;FILTER + WEB;¿Cómo podría hacer una tortilla de patatas?;"Según el extracto de contexto, para hacer una tortilla de patatas, puedes seguir los siguientes pasos:
+
+1. Pela las patatas y pícalas en rodajas o gajos no muy delgados.
+2. Pica la cebolla en julianas.
+3. Caliente una sartén antiadherente grande con abundante aceite de oliva.
+4. Echa las patatas y cocínalas a fuego medio durante 5 minutos.
+5. A continuación, agrega las cebollas y cocina durante un poco más.
+
+Espero que esto te ayude. ¡Buen provecho!";Con la información y el contexto proporcionado, no puedo dar una respuesta adecuada a la pregunta.;2;1
+9;REWRITE;¿Cómo podría hacer una tortilla de patatas?;Lo siento, pero no tengo información disponible para responder esta pregunta. El contexto proporcionado no contiene información relevante para responder sobre cómo hacer una tortilla de patatas.;Con la información y el contexto proporcionado, no puedo dar una respuesta adecuada a la pregunta.;8;1
+10;FILTER + REWRITE;¿Cómo podría hacer una tortilla de patatas?;Lo siento, pero no puedo ayudarte a hacer una tortilla de patatas. El contexto proporcionado no tiene relación con la receta de una tortilla de patatas. Los extractos de documentos proporcionados parecen ser normas y regulaciones sobre temas como la justicia, la salud pública, la seguridad, la protección del medio ambiente, la legislación y la seguridad privada. No hay información sobre cómo hacer una tortilla de patatas en estos extractos. Si necesitas ayuda con una receta de tortilla de patatas, puedo proporcionarte una receta tradicional española.;Con la información y el contexto proporcionado, no puedo dar una respuesta adecuada a la pregunta.;8;12
+11;LLAMA3;Necesito grabar conversaciones que tengo con mi jefe, por posibles actos de mobbing, maltrato laboral… Es necesario pedirle consentimiento para grabarlas?;"En general, en la mayoría de los países, no es necesario pedir permiso explícito para grabar conversaciones con tu jefe o colegas en el ámbito laboral, siempre y cuando se trate de una conversación informal y no se utilicen técnicas de espionaje o vigilancia. Sin embargo, es importante considerar las normas y regulaciones laborales y de privacidad en tu país y empresa.
+
+En algunos países, como España, por ejemplo, la grabación de conversaciones laborales está permitida siempre y cuando se trate de una conversación informal y no se utilicen técnicas de espionaje o vigilancia.
+
+En otros países, como Estados Unidos, la grabación de conversaciones laborales puede ser ilegal sin el consentimiento de las partes involucradas, a menos que se trate de una conversación pública o abierta.
+
+Es importante mencionar que, en cualquier caso, es fundamental respetar la privacidad y la confidencialidad de la información compartida en la conversación.
+
+En resumen, antes de grabar cualquier conversación laboral, es recomendable consultar las normas y regulaciones laborales y de privacidad en tu país y empresa para asegurarte de que estás cumpliendo con las normas y regulaciones aplicables.";"
+    Según la doctrina establecida por el Tribunal Supremo en la sentencia STS 652/2016, no es necesario obtener el consentimiento de la otra parte para grabar conversaciones privadas en el ámbito laboral. En España, se considera que la grabación de conversaciones entre particulares por uno de los interlocutores no vulnera el derecho constitucional al secreto de las comunicaciones, siempre y cuando no afecte al núcleo íntimo de la intimidad personal o familiar de ninguno de los interlocutores.
+
+Sin embargo, es importante tener en cuenta que esta respuesta se refiere específicamente al ámbito laboral y a la jurisprudencia española. Las leyes y regulaciones pueden variar en otros países y en diferentes contextos, por lo que es recomendable consultar con un abogado especializado en derecho laboral para obtener asesoramiento legal específico sobre su situación.​▎
+    ";8;0
+12;BASE;Necesito grabar conversaciones que tengo con mi jefe, por posibles actos de mobbing, maltrato laboral… Es necesario pedirle consentimiento para grabarlas?;Según el Código Procesal Penal y la Ley Orgánica 15/1999, de Protección de Datos de Carácter Personal, no es necesario pedir consentimiento para grabar conversaciones que puedan ser constitutivas de ilícitos penales o infracciones administrativas relacionadas con la seguridad ciudadana. Sin embargo, es importante tener en cuenta que, según el artículo 8 del Código Procesal Penal, las grabaciones deben ser destruidas en un plazo máximo de un mes desde su captación, salvo que estén relacionadas con infracciones penales o administrativas graves o muy graves en materia de seguridad pública.;"
+    Según la doctrina establecida por el Tribunal Supremo en la sentencia STS 652/2016, no es necesario obtener el consentimiento de la otra parte para grabar conversaciones privadas en el ámbito laboral. En España, se considera que la grabación de conversaciones entre particulares por uno de los interlocutores no vulnera el derecho constitucional al secreto de las comunicaciones, siempre y cuando no afecte al núcleo íntimo de la intimidad personal o familiar de ninguno de los interlocutores.
+
+Sin embargo, es importante tener en cuenta que esta respuesta se refiere específicamente al ámbito laboral y a la jurisprudencia española. Las leyes y regulaciones pueden variar en otros países y en diferentes contextos, por lo que es recomendable consultar con un abogado especializado en derecho laboral para obtener asesoramiento legal específico sobre su situación.​▎
+    ";6;4
+13;FILTER;Necesito grabar conversaciones que tengo con mi jefe, por posibles actos de mobbing, maltrato laboral… Es necesario pedirle consentimiento para grabarlas?;Según el contexto, no es necesario pedir consentimiento para grabar conversaciones en situaciones de posible actos de mobbing o maltrato laboral, siempre y cuando se cumplan los requisitos establecidos en la ley. Sin embargo, es importante tener en cuenta que la grabación de conversaciones privadas o de naturaleza estrictamente privada está prohibida.;"
+    Según la doctrina establecida por el Tribunal Supremo en la sentencia STS 652/2016, no es necesario obtener el consentimiento de la otra parte para grabar conversaciones privadas en el ámbito laboral. En España, se considera que la grabación de conversaciones entre particulares por uno de los interlocutores no vulnera el derecho constitucional al secreto de las comunicaciones, siempre y cuando no afecte al núcleo íntimo de la intimidad personal o familiar de ninguno de los interlocutores.
+
+Sin embargo, es importante tener en cuenta que esta respuesta se refiere específicamente al ámbito laboral y a la jurisprudencia española. Las leyes y regulaciones pueden variar en otros países y en diferentes contextos, por lo que es recomendable consultar con un abogado especializado en derecho laboral para obtener asesoramiento legal específico sobre su situación.​▎
+    ";8;2
+14;FILTER + WEB;Necesito grabar conversaciones que tengo con mi jefe, por posibles actos de mobbing, maltrato laboral… Es necesario pedirle consentimiento para grabarlas?;Según el contexto, en España, no es necesario pedir consentimiento para grabar conversaciones en lugares públicos, siempre y cuando se cumplan los requisitos establecidos en la Ley. Sin embargo, en el ámbito laboral, la situación es diferente. En algunos estados, como Alaska, es legal grabar conversaciones siempre y cuando al menos una parte de la conversación esté al tanto de la grabación. En otros estados, como España, es necesario pedir consentimiento a todas las partes involucradas en la conversación. Es importante tener en cuenta que las leyes sobre grabación de conversaciones varían según el estado o país.;"
+    Según la doctrina establecida por el Tribunal Supremo en la sentencia STS 652/2016, no es necesario obtener el consentimiento de la otra parte para grabar conversaciones privadas en el ámbito laboral. En España, se considera que la grabación de conversaciones entre particulares por uno de los interlocutores no vulnera el derecho constitucional al secreto de las comunicaciones, siempre y cuando no afecte al núcleo íntimo de la intimidad personal o familiar de ninguno de los interlocutores.
+
+Sin embargo, es importante tener en cuenta que esta respuesta se refiere específicamente al ámbito laboral y a la jurisprudencia española. Las leyes y regulaciones pueden variar en otros países y en diferentes contextos, por lo que es recomendable consultar con un abogado especializado en derecho laboral para obtener asesoramiento legal específico sobre su situación.​▎
+    ";6;3
+15;REWRITE;Necesito grabar conversaciones que tengo con mi jefe, por posibles actos de mobbing, maltrato laboral… Es necesario pedirle consentimiento para grabarlas?;Según el contexto, no es necesario pedir consentimiento para grabar conversaciones en situaciones de posible actos de mobbing o maltrato laboral, siempre y cuando se cumplan los requisitos establecidos en la ley. Sin embargo, es importante tener en cuenta que la grabación de conversaciones privadas o de naturaleza estrictamente privada está prohibida.;"
+    Según la doctrina establecida por el Tribunal Supremo en la sentencia STS 652/2016, no es necesario obtener el consentimiento de la otra parte para grabar conversaciones privadas en el ámbito laboral. En España, se considera que la grabación de conversaciones entre particulares por uno de los interlocutores no vulnera el derecho constitucional al secreto de las comunicaciones, siempre y cuando no afecte al núcleo íntimo de la intimidad personal o familiar de ninguno de los interlocutores.
+
+Sin embargo, es importante tener en cuenta que esta respuesta se refiere específicamente al ámbito laboral y a la jurisprudencia española. Las leyes y regulaciones pueden variar en otros países y en diferentes contextos, por lo que es recomendable consultar con un abogado especializado en derecho laboral para obtener asesoramiento legal específico sobre su situación.​▎
+    ";8;2
+16;FILTER + REWRITE;Necesito grabar conversaciones que tengo con mi jefe, por posibles actos de mobbing, maltrato laboral… Es necesario pedirle consentimiento para grabarlas?;"Según el Código Procesal Penal y la Ley Orgánica reguladora de la utilización de videocámaras en lugares públicos, no es necesario pedir consentimiento para grabar conversaciones que tengan lugar en lugares públicos o en espacios privados, siempre y cuando se cumplan los requisitos establecidos en la ley. Sin embargo, si se trata de grabar conversaciones en espacios privados o en situaciones en las que se considere que la intimidad de las personas está en juego, es posible que sea necesario obtener el consentimiento previo de las personas involucradas.
+
+En el contexto de un posible acto de mobbing o maltrato laboral, es importante considerar que la grabación de conversaciones puede ser utilizada como evidencia en un posible proceso judicial. En este sentido, es importante asegurarse de que se cumplan los requisitos legales y éticos para la grabación y conservación de la información.
+
+En resumen, no es necesario pedir consentimiento para grabar conversaciones en lugares públicos o en situaciones en las que se considere que la intimidad de las personas está en juego, siempre y cuando se cumplan los requisitos establecidos en la ley. Sin embargo, es importante considerar los requisitos legales y éticos para la grabación y conservación de la información en situaciones específicas.";"
+    Según la doctrina establecida por el Tribunal Supremo en la sentencia STS 652/2016, no es necesario obtener el consentimiento de la otra parte para grabar conversaciones privadas en el ámbito laboral. En España, se considera que la grabación de conversaciones entre particulares por uno de los interlocutores no vulnera el derecho constitucional al secreto de las comunicaciones, siempre y cuando no afecte al núcleo íntimo de la intimidad personal o familiar de ninguno de los interlocutores.
+
+Sin embargo, es importante tener en cuenta que esta respuesta se refiere específicamente al ámbito laboral y a la jurisprudencia española. Las leyes y regulaciones pueden variar en otros países y en diferentes contextos, por lo que es recomendable consultar con un abogado especializado en derecho laboral para obtener asesoramiento legal específico sobre su situación.​▎
+    ";8;12
+17;LLAMA3;Si una persona se cae en la calle, ¿cómo se computa el plazo de prescripción de un año para poder reclamar a la administración por responsabilidad patrimonial?;Según el Código Civil Español, el plazo de prescripción para reclamar a la administración por responsabilidad patrimonial es de un año contado a partir de la fecha en que la persona afectada tuvo conocimiento de la lesión o daño. Sin embargo, si el daño se produce en la vía pública, el plazo de prescripción comienza a contar desde la fecha en que se produjo el hecho dañoso.;"El plazo de prescripción de un año para reclamar a la administración por responsabilidad patrimonial comienza a contar desde el día en que se produce el hecho lesivo o desde el día en que se tiene conocimiento del mismo. En el caso de una persona que se cae en la calle, el plazo de prescripción comenzaría a contar desde el día en que ocurrió la caída o desde el día en que la persona tuvo conocimiento de la lesión sufrida.
+
+Es importante tener en cuenta que este plazo de prescripción puede variar dependiendo de las circunstancias y de la normativa aplicable en cada caso. Por lo tanto, es recomendable consultar la legislación específica y buscar asesoramiento legal para determinar con precisión el plazo de prescripción aplicable en cada situación.";8;0
+18;BASE;Si una persona se cae en la calle, ¿cómo se computa el plazo de prescripción de un año para poder reclamar a la administración por responsabilidad patrimonial?;Según el contexto, el plazo de prescripción para reclamar a la administración por responsabilidad patrimonial es de un año. Esto se establece en el artículo 28 del documento, que establece que las solicitudes deben cursarse en el plazo máximo de un año desde que se produjeron los daños.;"El plazo de prescripción de un año para reclamar a la administración por responsabilidad patrimonial comienza a contar desde el día en que se produce el hecho lesivo o desde el día en que se tiene conocimiento del mismo. En el caso de una persona que se cae en la calle, el plazo de prescripción comenzaría a contar desde el día en que ocurrió la caída o desde el día en que la persona tuvo conocimiento de la lesión sufrida.
+
+Es importante tener en cuenta que este plazo de prescripción puede variar dependiendo de las circunstancias y de la normativa aplicable en cada caso. Por lo tanto, es recomendable consultar la legislación específica y buscar asesoramiento legal para determinar con precisión el plazo de prescripción aplicable en cada situación.";6;4
+19;FILTER;Si una persona se cae en la calle, ¿cómo se computa el plazo de prescripción de un año para poder reclamar a la administración por responsabilidad patrimonial?;Según el extracto, el plazo de prescripción para reclamar a la administración por responsabilidad patrimonial es de un año, contado desde la fecha en que se produjeron los daños. En el caso de daños corporales, el plazo se computa a partir de la fecha de alta o consolidación de secuelas, según acredite el Sistema Nacional de Salud.;"El plazo de prescripción de un año para reclamar a la administración por responsabilidad patrimonial comienza a contar desde el día en que se produce el hecho lesivo o desde el día en que se tiene conocimiento del mismo. En el caso de una persona que se cae en la calle, el plazo de prescripción comenzaría a contar desde el día en que ocurrió la caída o desde el día en que la persona tuvo conocimiento de la lesión sufrida.
+
+Es importante tener en cuenta que este plazo de prescripción puede variar dependiendo de las circunstancias y de la normativa aplicable en cada caso. Por lo tanto, es recomendable consultar la legislación específica y buscar asesoramiento legal para determinar con precisión el plazo de prescripción aplicable en cada situación.";8;2
+20;FILTER + WEB;Si una persona se cae en la calle, ¿cómo se computa el plazo de prescripción de un año para poder reclamar a la administración por responsabilidad patrimonial?;Según el contexto, el plazo de prescripción para reclamar a la administración por responsabilidad patrimonial es de un año. El plazo se computa desde el día en que se haya producido el daño o desde que se haya manifestado de forma continua o discontinua el hecho causante del daño.;"El plazo de prescripción de un año para reclamar a la administración por responsabilidad patrimonial comienza a contar desde el día en que se produce el hecho lesivo o desde el día en que se tiene conocimiento del mismo. En el caso de una persona que se cae en la calle, el plazo de prescripción comenzaría a contar desde el día en que ocurrió la caída o desde el día en que la persona tuvo conocimiento de la lesión sufrida.
+
+Es importante tener en cuenta que este plazo de prescripción puede variar dependiendo de las circunstancias y de la normativa aplicable en cada caso. Por lo tanto, es recomendable consultar la legislación específica y buscar asesoramiento legal para determinar con precisión el plazo de prescripción aplicable en cada situación.";8;3
+21;REWRITE;Si una persona se cae en la calle, ¿cómo se computa el plazo de prescripción de un año para poder reclamar a la administración por responsabilidad patrimonial?;Según el extracto, el plazo de prescripción para reclamar a la administración por responsabilidad patrimonial es de un año, contado desde la fecha en que se produjeron los daños. En el caso de daños corporales, el plazo se computa a partir de la fecha de alta o consolidación de secuelas, según acredite el Sistema Nacional de Salud.;"El plazo de prescripción de un año para reclamar a la administración por responsabilidad patrimonial comienza a contar desde el día en que se produce el hecho lesivo o desde el día en que se tiene conocimiento del mismo. En el caso de una persona que se cae en la calle, el plazo de prescripción comenzaría a contar desde el día en que ocurrió la caída o desde el día en que la persona tuvo conocimiento de la lesión sufrida.
+
+Es importante tener en cuenta que este plazo de prescripción puede variar dependiendo de las circunstancias y de la normativa aplicable en cada caso. Por lo tanto, es recomendable consultar la legislación específica y buscar asesoramiento legal para determinar con precisión el plazo de prescripción aplicable en cada situación.";8;2
+22;FILTER + REWRITE;Si una persona se cae en la calle, ¿cómo se computa el plazo de prescripción de un año para poder reclamar a la administración por responsabilidad patrimonial?;"La pregunta es: ¿Cómo se computa el plazo de prescripción de un año para poder reclamar a la administración por responsabilidad patrimonial si una persona se cae en la calle?
+
+La respuesta se encuentra en el artículo 40 de la Ley Orgánica de Protección de la Seguridad Ciudadana, que establece que las sanciones impuestas por infracciones muy graves prescribirán a los tres años, las impuestas por infracciones graves, a los dos años, y las impuestas por infracciones leves al año, computados desde el día siguiente a aquel en que adquiera firmeza en vía administrativa la resolución por la que se impone la sanción.
+
+En este caso, como se trata de una persona que se cae en la calle, no se aplica la prescripción de un año para reclamar a la administración por responsabilidad patrimonial. En lugar de eso, se aplica el plazo de prescripción establecido en el artículo 28 del Reglamento de la Ley de Responsabilidad Civil, que establece que las solicitudes de indemnización por daños corporales o materiales deben cursarse en el plazo máximo de un año desde que se produjeron los daños.
+
+Por lo tanto, la respuesta es que no se computa el plazo de prescripción de un año para reclamar a la administración por responsabilidad patrimonial en este caso.";"El plazo de prescripción de un año para reclamar a la administración por responsabilidad patrimonial comienza a contar desde el día en que se produce el hecho lesivo o desde el día en que se tiene conocimiento del mismo. En el caso de una persona que se cae en la calle, el plazo de prescripción comenzaría a contar desde el día en que ocurrió la caída o desde el día en que la persona tuvo conocimiento de la lesión sufrida.
+
+Es importante tener en cuenta que este plazo de prescripción puede variar dependiendo de las circunstancias y de la normativa aplicable en cada caso. Por lo tanto, es recomendable consultar la legislación específica y buscar asesoramiento legal para determinar con precisión el plazo de prescripción aplicable en cada situación.";8;12
+23;LLAMA3;¿Cuáles son las sanciones establecidas por la comisión de infracciones muy graves según el Artículo 9?;Según el Artículo 9 del Código de Procedimiento Penal, las sanciones establecidas por la comisión de infracciones muy graves son: la prisión de 6 a 12 años, multa de 1.000 a 100.000 unidades de cuenta, y la inhabilitación para el ejercicio de ciertos derechos y libertades por un plazo de 3 a 10 años.;"Según el Artículo 9, apartado 2, por la comisión de infracciones muy graves se impondrán simultáneamente las siguientes sanciones:
+a) Una multa que puede ascender hasta el tanto del contenido económico de la operación, con un mínimo de 30.000 euros.
+b) Amonestación pública o privada.";6;0
+24;BASE;¿Cuáles son las sanciones establecidas por la comisión de infracciones muy graves según el Artículo 9?;"Según el Artículo 9, las sanciones establecidas por la comisión de infracciones muy graves son:
+
+* Multa, que puede ascender hasta el tanto del contenido económico de la operación sin que pueda ser inferior a 30.000 euros.
+* Amonestación pública o privada.
+
+Es importante destacar que no hay mención a otras sanciones específicas para infracciones muy graves en el contexto proporcionado.";"Según el Artículo 9, apartado 2, por la comisión de infracciones muy graves se impondrán simultáneamente las siguientes sanciones:
+a) Una multa que puede ascender hasta el tanto del contenido económico de la operación, con un mínimo de 30.000 euros.
+b) Amonestación pública o privada.";8;4
+25;FILTER;¿Cuáles son las sanciones establecidas por la comisión de infracciones muy graves según el Artículo 9?;"Según el Artículo 9, las sanciones establecidas por la comisión de infracciones muy graves son:
+
+* Multa de 3.001 a 10.000 euros
+* Simultáneamente, puede imponerse la amonestación pública o privada
+
+Además, en el caso de los usuarios profesionales, las sanciones por infracciones muy graves pueden ser de hasta 30.000 euros.";"Según el Artículo 9, apartado 2, por la comisión de infracciones muy graves se impondrán simultáneamente las siguientes sanciones:
+a) Una multa que puede ascender hasta el tanto del contenido económico de la operación, con un mínimo de 30.000 euros.
+b) Amonestación pública o privada.";8;2
+26;FILTER + WEB;¿Cuáles son las sanciones establecidas por la comisión de infracciones muy graves según el Artículo 9?;"Según el Artículo 9, las sanciones establecidas por la comisión de infracciones muy graves son:
+
+* Multa de 3.001 a 10.000 euros
+* Amonestación pública o privada
+
+Además, en algunos casos, puede llevarse aparejada la revocación de la licencia o la prohibición de obtenerla por un plazo determinado.";"Según el Artículo 9, apartado 2, por la comisión de infracciones muy graves se impondrán simultáneamente las siguientes sanciones:
+a) Una multa que puede ascender hasta el tanto del contenido económico de la operación, con un mínimo de 30.000 euros.
+b) Amonestación pública o privada.";8;3
+27;REWRITE;¿Cuáles son las sanciones establecidas por la comisión de infracciones muy graves según el Artículo 9?;"Según el Artículo 9, las sanciones establecidas por la comisión de infracciones muy graves son:
+
+* Multa, que puede ascender hasta el tanto del contenido económico de la operación sin que pueda ser inferior a 30.000 euros.
+* Amonestación pública o privada.
+
+Además, según el contexto, las infracciones muy graves cometidas por los particulares pueden llevar aparejada la revocación de la licencia en el caso de ser titular de una, y en todo caso, comportará la prohibición de obtenerla por un plazo comprendido entre seis meses y un día y un año.";"Según el Artículo 9, apartado 2, por la comisión de infracciones muy graves se impondrán simultáneamente las siguientes sanciones:
+a) Una multa que puede ascender hasta el tanto del contenido económico de la operación, con un mínimo de 30.000 euros.
+b) Amonestación pública o privada.";8;4
+28;FILTER + REWRITE;¿Cuáles son las sanciones establecidas por la comisión de infracciones muy graves según el Artículo 9?;"Según el Artículo 9, las sanciones establecidas por la comisión de infracciones muy graves son:
+
+* Multa, que podrá ascender hasta el tanto del contenido económico de la operación sin que pueda ser inferior a 30.000 euros, y
+* Amonestación pública o privada.
+
+Es importante destacar que no hay más información sobre sanciones específicas para infracciones muy graves en este contexto. Si necesitas más información, por favor proporciona más contexto o detalles.";"Según el Artículo 9, apartado 2, por la comisión de infracciones muy graves se impondrán simultáneamente las siguientes sanciones:
+a) Una multa que puede ascender hasta el tanto del contenido económico de la operación, con un mínimo de 30.000 euros.
+b) Amonestación pública o privada.";8;12
